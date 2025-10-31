@@ -1,0 +1,11 @@
+.characterList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+}
+article{
+    margin: 15px;
+}
