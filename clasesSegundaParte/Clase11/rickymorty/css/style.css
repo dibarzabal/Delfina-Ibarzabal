@@ -9,3 +9,8 @@
 article{
     margin: 15px;
 }
+
+.search-results{
+    display: flex;
+    flex-wrap: wrap;
+}
